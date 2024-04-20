@@ -1,10 +1,10 @@
-# iploggerfilter
+# StreamySafe
 This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite who's only purpose is to log your IP
 
 ## Installation
 
 ### Automatic (Adblock Plus, uBlock Origin)
-  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist&title=Piperun%27s%20iplogger%20filter)
+  Click this: [(Subscribe)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/TheGlitchGamers/StreamySafe/main/safefilter&title=StreamySafe%20by%20GlitchgGamers)
   
 ### Manual (uBlock Origin)
 
@@ -14,7 +14,7 @@ This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any s
   - Copy and paste into the textbox:
   
   ```
-  https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+  https://raw.githubusercontent.com/TheGlitchGamers/StreamySafe/main/safefilter
   ```
   
   - Now there should appear a yellow button called "Parse", click it
