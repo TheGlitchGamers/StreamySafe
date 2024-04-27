@@ -1,5 +1,5 @@
 # StreamySafe
-This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite who's only purpose is to log your IP
+This repo is for uBlock Origin/Adblock Plus and similar blockers to filter any site/subsite that tries to troll you.
 
 ## Installation
 
