@@ -12,10 +12,10 @@
 # Last Updated: 16.10.2024 #
 #################################
 
-#Main: trolllinks
+# Main: trolllinks
 ||mtdv.me^$important,all
 
-# shortlinks
+# Main: shortlinks
 ||shorturl.at^$important,all
 ||t.ly^$important,all
 ||tinyurl.com^$important,all
