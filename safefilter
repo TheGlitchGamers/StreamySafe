@@ -19,11 +19,12 @@
 ||shorturl.at^$important,all
 ||t.ly^$important,all
 ||tinyurl.com^$important,all
-||free-url-shortener.rb.gy^$important,all
+||rb.gy^$important,all
 ||short1.link^$important,all
 ||t1p.de^$important,all
 ||bitly.com^$important,all
 ||shortall.io^$important,all
 ||urlshort.dev^$important,all
 ||shortlink.net^$important,all
+||rebrandly.com^$important,all
 
