@@ -7,10 +7,15 @@
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
-# Troll links
+#################################
+# Main Link blocker #
+# Last Updated: 16.10.2024 #
+#################################
+
+#Main: trolllinks
 ||mtdv.me^$important,all
 
-# Shortlinks
+# shortlinks
 ||shorturl.at^$important,all
 ||t.ly^$important,all
 ||tinyurl.com^$important,all
