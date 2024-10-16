@@ -7,8 +7,10 @@
 
 # WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
-# Main: Warning links
+# Troll links
 ||mtdv.me^$important,all
+
+# Shortlinks
 ||shorturl.at^$important,all
 ||t.ly^$important,all
 ||tinyurl.com^$important,all
