@@ -9,4 +9,8 @@
 
 # Main: Troll links
 ||mtdv.me^$important,all
+
+# Main: Shortlinks
 ||shorturl.at^$important,all
+||t.ly^$important,all
+||tinyurl.com^$important,all
